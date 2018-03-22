@@ -1,0 +1,10 @@
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\bin\Release\netcoreapp2.0\BinaryTree.deps.json
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\bin\Release\netcoreapp2.0\BinaryTree.runtimeconfig.json
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\bin\Release\netcoreapp2.0\BinaryTree.runtimeconfig.dev.json
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\bin\Release\netcoreapp2.0\BinaryTree.dll
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\bin\Release\netcoreapp2.0\BinaryTree.pdb
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\obj\Release\netcoreapp2.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\obj\Release\netcoreapp2.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\obj\Release\netcoreapp2.0\BinaryTree.AssemblyInfo.cs
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\obj\Release\netcoreapp2.0\BinaryTree.dll
+C:\Users\andrey\source\repos\BinaryTree\BinaryTree\obj\Release\netcoreapp2.0\BinaryTree.pdb
